@@ -1,0 +1,74 @@
+Boredbrains Consortium License
+
+This license governs the use of the core MICT Logic Engines (JavaScript and Python implementations) and associated documentation ("Software") provided by Boredbrains Consortium ("Boredbrains").
+
+1.  Definitions
+
+    *   "Software" refers to the core MICT Logic Engines (JavaScript and Python implementations) and associated documentation provided by Boredbrains Consortium. This *specifically excludes* the Project Management application, the Community Platform, and other *applications* built *using* the MICT Logic Engines. Those applications would be subject to separate licensing terms.
+
+    *   "Non-Commercial Use" means use of the Software for:
+        *   Personal learning and experimentation.
+        *   Academic research and education.
+        *   Internal use within a company or organization *that does not directly generate revenue from the Software itself*. (This allows internal use for process improvement, as you described).
+        *   Development and testing of non-commercial applications.
+
+    *   "Commercial Use" means any use of the Software that directly or indirectly generates revenue, including but not limited to:
+        *   Incorporating the Software into a product or service that is sold or licensed to third parties.
+        *   Using the Software to provide a paid service to third parties.
+        *   Using the Software as a key component of a commercial offering.
+
+    *  "Net Revenue" means gross revenue received from the sale or licensing of products or services incorporating or utilizing the Software, less the following direct, documented, and reasonable costs:
+        *  Cost of Goods Sold (COGS) directly attributable to the Software.
+        *  Sales and marketing expenses directly attributable to the Software.
+        *  Direct customer support costs related to the Software.
+        * Taxes directly related to revenue from the Software (e.g. sales taxes)
+        * Returns and allowances directly attributable to the Software
+
+        *Specifically Excluded* from the calculation of Net Revenue are: general and administrative expenses, research and development costs *not* directly attributable to the Software, financing costs, and salaries *not* directly attributable to the Software.  *Boredbrains reserves the right to audit the Licensee's financial records to verify the accuracy of Net Revenue calculations.*
+
+
+2.  Non-Commercial Use License
+
+    Boredbrains grants you a non-exclusive, worldwide, royalty-free, perpetual license to use, reproduce, modify, and distribute the Software for Non-Commercial Use, subject to the following conditions:
+
+    *   **Attribution:** You must include the following attribution notice in all copies or substantial portions of the Software:
+        > "This software incorporates the MICT Logic Engines, developed by Boredbrains Consortium (https://www.boredbrains.net) and licensed under the Boredbrains Consortium License."
+
+    *   **Knowledge Sharing:**  You are encouraged (but not *required*) to share any significant improvements, modifications, or new applications of the MICT Logic Engines with Boredbrains Consortium. This helps foster a collaborative community and advance the development of the framework. You can share this information by [Specify a method: e.g., "submitting a pull request on our GitHub repository," "emailing us at [email address]", "posting on our community forum"].
+
+    *   **No Warranty:** The Software is provided "as is" without any warranty of any kind.
+    *   **Limitation of Liability:** Boredbrains shall not be liable for any damages arising from the use of the Software.
+
+3.  Commercial Use License
+
+    For Commercial Use of the Software, you must obtain a commercial license from Boredbrains Consortium. The terms of the commercial license are as follows:
+
+    *   One-Time Setup Fee:  A one-time setup fee of [Amount - e.g., $5,000 or $10,000] USD is required to obtain a commercial license. This fee covers initial onboarding, support, and access to commercial documentation.
+ 
+   *   Royalty: You agree to pay Boredbrains Consortium a royalty of:
+        *   2% of Gross Revenue up to $2,000,000 USD in annual Gross Revenue derived from the use of the Software.
+        *   1% of Gross Revenue on any annual Gross Revenue exceeding $2,000,000 USD derived from the use of the Software.
+    *   "Gross Revenue" means the total revenue received by Licensee from the sale, licensing, or other distribution of products or services that incorporate or utilize the Software, *without any deductions whatsoever*.
+    *   Reporting: You agree to provide Boredbrains Consortium with quarterly reports detailing your Gross Revenue derived from the use of the Software. These reports must be submitted within 30 days of the end of each calendar quarter.
+    *   Payment: Royalty payments are due within 30 days of the end of each calendar quarter.
+    *   Audit Rights: Boredbrains Consortium reserves the right to audit your financial records (with reasonable notice and confidentiality safeguards) to verify the accuracy of your Gross Revenue calculations.
+    *   Separate Agreement: The specific terms of the commercial license, including payment methods and reporting details, will be formalized in a separate written agreement between Boredbrains Consortium and the commercial licensee.
+
+
+4.  No Sublicensing (for both Non-Commercial and Commercial)
+
+    You may not sublicense the Software to any third party.
+
+5.  Termination
+
+    Boredbrains Consortium may terminate this license if you breach any of its terms and conditions.
+
+6.  Governing Law
+
+    This license shall be governed by and construed in accordance with the laws of the State of Nevada, USA.
+
+7. Updates
+	 Boredbrains maintains the right to adjust and modify this license as needed.
+
+Contact: www.boredbrains.net
+info@boredbrains.net
