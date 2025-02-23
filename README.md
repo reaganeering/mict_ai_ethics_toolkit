@@ -1,4 +1,4 @@
-# Mict Ai Ethics Toolkit
+# MICT Ai Ethics Toolkit
 This is an AI Ethics Toolkit for AI Developers to Build Out Their Respective Solutions for Ethical AI.  They can be used with any AI system, they work independently and can be made to adapt via the required mict_framework.
 Please Refer to the License Agreement.  These modules are provided under the BoredBrains Consortium License
 
